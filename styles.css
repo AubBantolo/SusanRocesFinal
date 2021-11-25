@@ -1,0 +1,171 @@
+.header
+{
+    position: relative;
+    top: 30px;
+    bottom: 15px;
+    left: 25px;
+}
+
+.header2
+{
+    position: relative;
+    top: 40px;
+    left: 20px;
+}
+
+.rss-box
+{
+    position: relative;
+    top: 35px;
+    left: 25px;
+    width: 92%;
+    text-align: justify;
+}
+
+.rss-box a
+{
+    text-decoration: none;
+    color: rgb(78, 52, 52);
+    font-weight: bold;
+    font-size: 15px;
+}
+
+a
+{
+    text-decoration: none;
+    color: #d6b6a0;
+}
+
+a:hover
+{
+    color: whitesmoke;
+}
+
+.rss-box p
+{
+    left: 20px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.rss-box2
+{
+    position: relative;
+    top: 50px;
+    left: 25px;
+    width: 92%;
+    text-align: justify;
+}
+
+.rss-box2 a
+{
+    text-decoration: none;
+    color: rgb(78, 52, 52);
+    font-weight: bold;
+    font-size: 15px;
+}
+
+a
+{
+    text-decoration: none;
+    color: #d6b6a0;
+}
+
+a:hover
+{
+    color: whitesmoke;
+}
+
+.rss-box2 p
+{
+    left: 20px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.about
+{
+    position: relative;
+    width: 645px;
+    height: 590px;
+    top: 40px;
+    left: 25px;
+}
+
+.collage
+{
+    position: relative;
+    top: 75px;
+    left: 70px;
+}
+
+.pic1
+{
+    position: relative;
+    top: -65px;
+}
+
+.pic2
+{
+    position: relative;
+    top: 200px;
+    left: -10px;
+}
+
+.collage2
+{
+    position: relative;
+    top: -50px;
+    left: 25px;
+}
+
+#SusanVid1
+{
+    position: relative;
+    top: 100px;
+}
+
+#SusanVid2
+{
+    position: relative;
+    top: 82px;
+}
+
+#SusanVid3
+{
+    position: relative;
+    top: 65px;
+}
+
+.one
+{
+    position: relative;
+    top: 88px;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 25px;
+    color: rgb(78, 52, 52);
+}
+
+.two
+{
+    position: relative;
+    top: 68px;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 25px;
+    color: rgb(78, 52, 52);
+}
+
+.three
+{
+    position: relative;
+    top: 55px;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 25px;
+    color: rgb(78, 52, 52);
+}
+
+
+
